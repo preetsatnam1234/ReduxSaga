@@ -1,0 +1,21 @@
+.card-wrapper {
+  width: 100%;
+}
+.avatar {
+  width: 100px;
+}
+.media {
+  padding-top: 200px;
+}
+.button_icon {
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  overflow: scroll;
+  height: 120px;
+  ;
+}
+.Modal_button_wrapper {
+  padding-top: 20px;
+}
